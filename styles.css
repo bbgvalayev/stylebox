@@ -1,0 +1,239 @@
+@font-face {
+    font-family: "AvenirNextPForBBG-Demi";
+    font-display: fallback;
+    src: url("https://assets.bwbx.io/s3/fontservice/fonts/AvenirNextPForBBG-Demi-b9b4abf0ea.woff2")
+            format("woff2"),
+        url("https://assets.bwbx.io/s3/fontservice/fonts/AvenirNextPForBBG-Demi-7459932d1d.woff")
+            format("woff");
+}
+
+@font-face {
+    font-family: "BW Haas Text Mono A-55 Roman";
+    font-display: swap;
+    src: url("https://assets.bwbx.io/s3/fontservice/fonts/BW%20Haas%20Text%20Mono%20A-55%20Roman-9fa796a3f4.woff2")
+            format("woff2"),
+        url("https://assets.bwbx.io/s3/fontservice/fonts/BW%20Haas%20Text%20Mono%20A-55%20Roman-33b3777385.woff")
+            format("woff");
+}
+
+@font-face {
+    font-family: "BWHaasGrotesk-55Roman-Web";
+    font-display: fallback;
+    src: url("https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-55Roman-Web-7998fbcba8.eot");
+    src: local("?"),
+        url("https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-55Roman-Web-5cf5733cd9.woff2")
+            format("woff2"),
+        url("https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-55Roman-Web-a1ea4fd367.woff")
+            format("woff");
+}
+
+@font-face {
+    font-family: "BWHaasGrotesk-55Roman-Display";
+    font-display: swap;
+    src: url("https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-55Roman-Display-d81d422f93.eot");
+    src: local("?"),
+        url("https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-55Roman-Display-8d97adea00.woff2")
+            format("woff2"),
+        url("https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-55Roman-Display-bd3153d4e7.woff")
+            format("woff");
+}
+
+@font-face {
+    font-family: "BWHaasGrotesk-75Bold-Web";
+    font-display: fallback;
+    src: url("https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-75Bold-Web-de8c77cce2.woff2")
+            format("woff2"),
+        url("https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-75Bold-Web-506363704e.woff")
+            format("woff");
+}
+
+@font-face {
+    font-family: "BWHaasGrotesk-95Black-Web";
+    font-display: fallback;
+    src: url("https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-95Black-Web-3629d1569b.woff2")
+            format("woff2"),
+        url("https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-95Black-Web-37847ad026.woff")
+            format("woff");
+}
+
+@font-face {
+    font-family: "Bloomberg Logotypes-Medium";
+    font-display: block;
+    src: url("https://assets.bwbx.io/s3/fontservice/fonts/Bloomberg%20Logotypes-Medium-0e53877b78.woff2")
+            format("woff2"),
+        url("https://assets.bwbx.io/s3/fontservice/fonts/Bloomberg%20Logotypes-Medium-4f4134c199.woff")
+            format("woff");
+}
+
+@font-face {
+    font-family: "PublicoHeadline-Bold-Web";
+    font-display: swap;
+    src: url("https://assets.bwbx.io/s3/fontservice/fonts/PublicoHeadline-Bold-Web-cec3a90fbb.eot");
+    src: local("?"),
+        url("https://assets.bwbx.io/s3/fontservice/fonts/PublicoHeadline-Bold-Web-e816328678.woff2")
+            format("woff2"),
+        url("https://assets.bwbx.io/s3/fontservice/fonts/PublicoHeadline-Bold-Web-45a1792556.woff")
+            format("woff");
+}
+
+@font-face {
+    font-family: "PublicoText-Bold-Web";
+    font-display: swap;
+    src: url("https://assets.bwbx.io/s3/fontservice/fonts/PublicoText-Bold-Web-3c5266a48e.woff2")
+            format("woff2"),
+        url("https://assets.bwbx.io/s3/fontservice/fonts/PublicoText-Bold-Web-8851dd6a6e.woff")
+            format("woff");
+}
+
+@font-face {
+    font-family: "PublicoText-Italic-Web";
+    font-display: swap;
+    src: url("https://assets.bwbx.io/s3/fontservice/fonts/PublicoText-Italic-Web-b04a2274cf.woff2")
+            format("woff2"),
+        url("https://assets.bwbx.io/s3/fontservice/fonts/PublicoText-Italic-Web-ba4fbc1a59.woff")
+            format("woff");
+}
+
+@font-face {
+    font-family: "PublicoText-Roman-Web";
+    font-display: swap;
+    src: url("https://assets.bwbx.io/s3/fontservice/fonts/PublicoText-Roman-Web-bfa063ee27.woff2")
+            format("woff2"),
+        url("https://assets.bwbx.io/s3/fontservice/fonts/PublicoText-Roman-Web-e953eb7239.woff")
+            format("woff");
+}
+
+@font-face {
+    font-family: "TiemposTextWeb-Regular";
+    font-display: swap;
+    src: url("https://assets.bwbx.io/s3/fontservice/fonts/TiemposTextWeb-Regular-d1a13989fe.eot");
+    src: local("?"),
+        url("https://assets.bwbx.io/s3/fontservice/fonts/TiemposTextWeb-Regular-0c712f870b.woff2")
+            format("woff2"),
+        url("https://assets.bwbx.io/s3/fontservice/fonts/TiemposTextWeb-Regular-ce6578caa5.woff")
+            format("woff"),
+        url("https://assets.bwbx.io/s3/fontservice/fonts/TiemposTextWeb-Regular-564ae670c4.svg")
+            format("svg");
+}
+
+@font-face {
+    font-family: "TiemposTextWeb-RegularItalic";
+    font-display: swap;
+    src: url("https://assets.bwbx.io/s3/fontservice/fonts/TiemposTextWeb-RegularItalic-61ef11cb84.eot");
+    src: local("?"),
+        url("https://assets.bwbx.io/s3/fontservice/fonts/TiemposTextWeb-RegularItalic-91232ccd19.woff2")
+            format("woff2"),
+        url("https://assets.bwbx.io/s3/fontservice/fonts/TiemposTextWeb-RegularItalic-9e71cd6b62.woff")
+            format("woff"),
+        url("https://assets.bwbx.io/s3/fontservice/fonts/TiemposTextWeb-RegularItalic-86dd520b81.svg")
+            format("svg");
+}
+
+h1.bwhaasgrotesk55romanweb,
+h2.bwhaasgrotesk55romanweb,
+h3.bwhaasgrotesk55romanweb,
+h4.bwhaasgrotesk55romanweb,
+h5.bwhaasgrotesk55romanweb {
+    font-family: "BWHaasGrotesk-55Roman-Web";
+    font-weight: normal;
+}
+
+h1.bwhaasgrotesk55romandisplay,
+h2.bwhaasgrotesk55romandisplay,
+h3.bwhaasgrotesk55romandisplay,
+h4.bwhaasgrotesk55romandisplay,
+h5.bwhaasgrotesk55romandisplay {
+    font-family: "BWHaasGrotesk-55Roman-Display";
+    font-weight: normal;
+}
+
+h1.bwhaasgrotesk75bold,
+h2.bwhaasgrotesk75bold,
+h3.bwhaasgrotesk75bold,
+h4.bwhaasgrotesk75bold,
+h5.bwhaasgrotesk75bold {
+    font-family: "BWHaasGrotesk-75Bold-Web";
+    font-weight: 700;
+}
+
+h1.bwhaasgrotesk95bold,
+h2.bwhaasgrotesk95bold,
+h3.bwhaasgrotesk95bold,
+h4.bwhaasgrotesk95bold,
+h5.bwhaasgrotesk95bold {
+    font-family: "BWHaasGrotesk-95Black-Web";
+    font-weight: 900;
+}
+
+h1.publicoheadlinebold,
+h2.publicoheadlinebold,
+h3.publicoheadlinebold,
+h4.publicoheadlinebold,
+h5.publicoheadlinebold {
+    font-family: "PublicoHeadline-Bold-Web";
+    font-weight: 700;
+}
+
+h1.publicotextbold,
+h2.publicotextbold,
+h3.publicotextbold,
+h4.publicotextbold,
+h5.publicotextbold {
+    font-family: "PublicoText-Bold-Web";
+    font-weight: 700;
+}
+
+h1.publicotextitalic,
+h2.publicotextitalic,
+h3.publicotextitalic,
+h4.publicotextitalic,
+h5.publicotextitalic {
+    font-family: "PublicoText-Italic-Web";
+    font-weight: 400;
+}
+
+h1.tiempostextwebregular,
+h2.tiempostextwebregular,
+h3.tiempostextwebregular,
+h4.tiempostextwebregular,
+h5.tiempostextwebregular {
+    font-family: "TiemposTextWeb-Regular";
+    font-weight: 400;
+}
+
+h1.tiempostextwebregularitalic,
+h2.tiempostextwebregularitalic,
+h3.tiempostextwebregularitalic,
+h4.tiempostextwebregularitalic,
+h5.tiempostextwebregularitalic {
+    font-family: "TiemposTextWeb-RegularItalic";
+    font-weight: 400;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    margin: 12px 0;
+}
+
+h1 {
+    font-size: 46px;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+h4 {
+    font-size: 26px;
+}
+
+.helper-text {
+    color: blue;
+}
